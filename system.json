@@ -10,10 +10,10 @@
         }
     ],
     "url": "https://github.com/AndiFuerst/BG3_Game_System",
-    "styles": ["css/bg3GameSystem.css"],
+    "styles": [],
     "packs": [],
     "scripts": [],
-    "esmodules": ["module/bg3GameSystem.js"],
+    "esmodules": ["module/bg3GameSystem.js"], 
     "initiative": "1d20",
     "gridDistance": 1,
     "gridUnits": "m",
