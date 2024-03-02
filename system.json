@@ -17,7 +17,7 @@
     "initiative": "1d20",
     "gridDistance": 1,
     "gridUnits": "m",
-    "manifest": "https://raw.githubusercontent.com/AndiFuerst/BG3_Game_System/development/system.json",
-    "download": "https://github.com/AndiFuerst/BG3_Game_System/archive/refs/heads/development.zip",
+    "manifest": "https://raw.githubusercontent.com/AndiFuerst/BG3_Game_System/testing/system.json",
+    "download": "https://github.com/AndiFuerst/BG3_Game_System/archive/refs/heads/testing.zip",
     "__comments__": "Attributes to add: primaryTokenAttribute, secondaryTokenAttribute, url, background"
 }
