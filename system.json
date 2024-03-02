@@ -1,1 +1,23 @@
-
+{
+    "id": "bg3_game_system",
+    "title": "Baldur's Gate 3 Game System",
+    "description": "This is a game system inspired by Larian Studio's Baldur's Gate 3. This has no affiliation with Larian Studios.",
+    "version": "0.0.0",
+    "authors":[
+        {
+            "name": "Andi Fuerst",
+            "url": "https://github.com/AndiFuerst"
+        }
+    ],
+    "url": "https://github.com/AndiFuerst/BG3_Game_System",
+    "styles": ["css/bg3GameSystem.css"],
+    "packs": [],
+    "scripts": [],
+    "esmodules": ["module/bg3GameSystem.js"],
+    "initiative": "1d20",
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "manifest": "https://raw.githubusercontent.com/AndiFuerst/BG3_Game_System/development/system.json",
+    "download": "https://github.com/AndiFuerst/BG3_Game_System/archive/refs/heads/development.zip",
+    "__comments__": "Attributes to add: primaryTokenAttribute, secondaryTokenAttribute, url, background"
+}
